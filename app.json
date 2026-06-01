@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DominicStarterApp",
+    "slug": "dominic-starter-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "51.0.0"
+  }
+}
